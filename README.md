@@ -14,4 +14,4 @@
 	- All codes are check on `python 2.7`.
 	- May contains a bug.
 	- Feel free to contribute.
-	- If new code done,i will update repo.s
+	- If new code done,i will update repo.
