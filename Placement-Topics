@@ -1,19 +1,84 @@
-*   Aptitude
+*   Aptitude Technical
         Basic fundamental study including c,cpp,java,DS,OS,Networking
-        website for practise
+        websites for practise.
         1) geeksofgeeks.org
         2) myswots.com
         3) indiabix
 
 *   Technical Interview 
-        1) DS
+                Coding websites: 
+                        1) hackerrank.com
+                        2) geeksforgeeks.org
+                        3) codechef.com
+                        4) topcoder.com
+        1) Data Structures (DS)
+                :-Array(bit,dope vector,sparse array),Matrix(sparse matrix)
+		:-linkedlist(singly,doubly,skip,unrolled,xor)
+		:-Stack(Array,linked_list,queue)
+		:-Queue(circular,double-ended,priority,stack)
+		:-Tree(Binary,BST,AVL,cartetian,red-black,splay-tree,self balancing,threded binary,B+,b-,
+                        fusion tree,Trie,Suffix tree,suffix array,ternary tree,k-ary,Fenwick,segment tree)
+		:-Heap(binary,weak,binomial,fibbo,heap sort)
+		:-Graph(adjancy list,matrix)
+		:-Hash(hash list,hash tree,hash trie,hash table,prefix hash table,Hashing collision)
+                
         2) Algorithms
-        3) OS
+                :-Analysis of algo(complexity theory)
+		:-Searching(linear,binary,jump,interpolation)
+		:-Sorting(quicksort,merge,Insertion,Selection,Bubble Sort,count sort,radix,bucket)
+		:-Greedy algo(kruskal,huffman,dijekshtra)
+		:-Dynamic algo(overlapping,sequnces) do much more
+		:-String && Pattern Serching(naive,rabin-karp,finite-state,knuth-morris,backward oracle matching)
+		:-Backtracking(n queen,rat in maze)
+		:-Divide and conqure
+		:-geometric
+		:-mathematical
+		:-Bit algo, 
+		:-Graph algo
+                
+        3) Operating System (OS)
+                :-Baiscs,
+                :-System structure-(kernal,system call,os dual mode) 
+                :-CPU scheduling (PCB, scheduler algorithms)
+                :-Threading process(process synchonization, semphor,mutex, Reader writer problem,dinning philosopher problem
+                :-Deadlock- (detection algo and recovery, bankers algo)
+                :-Memory managment (paging,segmentation,virtual memory, page replacement algo)
+                :-File system
+        
         4) DBMS
+                :-Baics
+                :- ER model (Genralization,specialization,aggrigation)
+                :- Relational algebra (Joins,operators,Netsted queries, Functional dependancy)
+                :- Noramalization 
+                :- Transaction and concurrancy control  (ACID property, two phase locking)
+                :- triggers,procedures,views,sql query,functions,Normalization,Aggrigate functions.
+        
         5) Networking
+                :- Networking basic concepts TCP/IP suite
+        
         6) Language Section
            - C language
            - Java or Python (at least one object oriented language)
+                -:-OOPS concepts
+
         7) Project Section
- 
+                Explanation of project:
+                     a) Problem solve
+                     b) Explain what you have created
+                     c) Role in project and team members (ex. Front end developer or backend)
+                     d) Approach of project
+                Some Questions
+                     1) Most challanging task in project
+                     2) Failure in project
+                     3) What you learn from project?
+                     4) Any conflicts with team members?
+        
+        8) Extras
+                :- SED and System admin RHCE
+		:- Ethical hacking 
+		:- Tools: Git, Emacs, Make, API.ai (google api)
+		FrameWorks
+                        1) ANGULAR JS
+                        2) Spring boot MVC Model (basic)
+
  *  HR Round
