@@ -6,12 +6,12 @@
 
 #### DESCRIPTION:
 
-	This was a practise done by me.
+	This is a Github Repository contains various competitive programming topics by implementing Data Structures and Algorithms in Python programming language.
 	
 - ##### working :
 	
-	- Each folder contains a separate codes.
-	- All codes are check on `python 2.7`.
-	- May contains a bug.
+	- Each folder contains a code from a separate topic.
+	- All codes have been executed on `python 2.7`.
+	- The Codes may contain bugs.
 	- Feel free to contribute.
-	- If new code done,i will update repo.
+	- If new code is added,i will update repo.
